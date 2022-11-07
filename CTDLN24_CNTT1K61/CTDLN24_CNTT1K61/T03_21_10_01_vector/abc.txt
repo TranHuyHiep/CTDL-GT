@@ -1,0 +1,11 @@
+5
+chi pheo
+13 5
+thi no
+18 9
+lao hac
+13 10
+giao thu
+45 8
+ba kien
+45 3

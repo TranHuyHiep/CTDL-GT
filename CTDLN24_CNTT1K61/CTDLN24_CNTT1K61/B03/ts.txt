@@ -1,0 +1,9 @@
+4
+tran anh
+3 4 5
+ly hung 
+3 7 2
+nguyen duc tuan em
+7 6 5
+le anh xuan ha
+1 2 4

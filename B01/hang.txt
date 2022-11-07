@@ -1,0 +1,4 @@
+
+Trung binh cong hang 1 la: 2.5
+Trung binh cong hang 2 la: 6.5
+Trung binh cong hang 3 la: 5.5
